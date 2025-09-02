@@ -13,3 +13,8 @@
 
 - [Ejercicios en PDF](https://github.com/nicarcsin/TareasMetMat25B/blob/main/DocPDF/TALLER%203.pdf)
 - Ejercicios con Sympy: [1](https://github.com/nicarcsin/TareasMetMat25B/blob/main/Codigos/Taller%203/eje.py), [2](https://github.com/nicarcsin/TareasMetMat25B/blob/main/Codigos/Taller%203/Ejercicio%203%20-%20%202.4.5.py)
+
+## Taller de problemas 4
+
+- [Ejercicios en PDF](https://github.com/nicarcsin/TareasMetMat25B/blob/main/DocPDF/Taller%20Semana%204.pdf)
+- Ejercicios con Sympy: [1](https://github.com/nicarcsin/TareasMetMat25B/blob/main/Codigos/Taller%204/EjercicioSemana4.py)
